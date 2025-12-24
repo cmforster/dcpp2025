@@ -3,7 +3,7 @@ student_name: Carla Forster
 topic: Commoning Digital Public Infrastructures - Why openCode.de should be opened to the contributions of citizens
 ---
 
-# Commong Digital Public Infrastructures - Why openCode.de should be opened to the contributions of citizens
+# Commoning Digital Public Infrastructures - Why openCode.de should be opened to the contributions of citizens
 
 OpenCode is a platform hosted by the German ZenDiS (Center for Digital Sovereignty), which was initiated 2022 by the Ministry for the Interior on the basis of its establishment in [Germany’s Digital Strategy](https://www.bmv.de/SharedDocs/DE/Anlage/K/presse/063-digitalstrategie.pdf). OpenCode was initiated by the [German federal IT planning council](https://www.digitale-verwaltung.de/SharedDocs/interviews/Webs/DV/DE/2025/leonhard-kugler-interview.html) and is a [central project](https://www.publicplan.de/blog/ohne-open-source-keine-digitale-souveranitat) in Germany’s [aim for digital sovereignty](https://bmds.bund.de/themen/digitale-souveraenitaet). It allows public service entities to share code online alongside collaborating on these projects and exchanging knowledge in its [forum](https://discourse.opencode.de/). ZenDiS took on openCode in [January 2024](https://www.digitale-verwaltung.de/SharedDocs/interviews/Webs/DV/DE/2025/leonhard-kugler-interview.html) and hosts it alongside [openDesk](https://www.zendis.de/unser-angebot), their open source alternative to Microsoft Office. OpenCode therefore provides an option for collaborating on code alternative to the popular proprietary platform [GitHub](https://github.com/), owned by US-based Microsoft, which is particularly important considering current geopolitical tensions between Europe and the US. 
 
